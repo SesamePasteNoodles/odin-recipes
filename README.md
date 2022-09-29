@@ -1,5 +1,5 @@
 # odin-recipes
 
-This project is a simple presentation of some HTML skills I've learned so far.
+This project is a presentation of some HTML skills I've learned so far.
 
-I'm going to build a basic website in which links, lists, and images are required.
+Though it may look simple right now, it'll get more exquisite as I progress though the curriculum.
